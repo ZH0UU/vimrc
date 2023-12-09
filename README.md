@@ -1,0 +1,1 @@
+### 😁Here's my vimrc configuration file without plugin 
